@@ -1,0 +1,30 @@
+{
+  "name": "auto-role-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for automatically assigning roles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tris10Blessing/Auto-Role-Bot.git"
+  },
+  "keywords": [
+    "discor",
+    "auto",
+    "role",
+    "bot",
+    "assign",
+    "join"
+  ],
+  "author": "Tris10Blessing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tris10Blessing/Auto-Role-Bot/issues"
+  },
+  "homepage": "https://github.com/Tris10Blessing/Auto-Role-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
